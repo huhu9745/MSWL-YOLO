@@ -1,0 +1,10 @@
+# dataset path
+path: D:\YOLOV8\main
+train: D:\YOLOV8\main\dataset\VOCdevkit\images\train
+val: D:\YOLOV8\main\dataset\VOCdevkit\images\val
+test: D:\YOLOV8\main\dataset\VOCdevkit\images\test
+# number of classes
+nc: 10
+
+# class names
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']

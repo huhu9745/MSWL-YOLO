@@ -1,0 +1,10 @@
+# dataset path
+path: D:\YOLOV8\ultralytics-20240831
+train: D:\YOLOV8\ultralytics-20240831\ultralytics-main\dataset\VOCdevkit\images\train
+val: D:\YOLOV8\ultralytics-20240831\ultralytics-main\dataset\VOCdevkit\images\val
+test: D:\YOLOV8\ultralytics-20240831\ultralytics-main\dataset\VOCdevkit\images\val
+# number of classes
+nc: 10
+
+# class names
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']

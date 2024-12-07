@@ -2,6 +2,7 @@
 
 #As stated in the paper, first set up the required environment.
 
+# The VisDrone2019 dataset is located in `dataset/VOCdevkit`.
 
 # run
 `val.py` is used to test the accuracy of the validation set in the paper.
